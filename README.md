@@ -25,11 +25,11 @@ node -v
    ```
 2. **Accede al directorio del proyecto**:
    ```sh
-   cd GuessNumber_Console-Game
+   cd SRC
    ```
 3. **Ejecuta el juego** con el siguiente comando:
    ```sh
-   node index.js
+   node app.js
    ```
 
 ## 🕹️ Cómo jugar
